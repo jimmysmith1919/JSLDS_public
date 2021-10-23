@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np             # original CPU-backed NumPy
 from sklearn.decomposition import PCA
 import JSLDS_public.JSLDS_code.model_and_training as JSLDS
-import JSLDS_public.JSLDS_code.integrator
+import JSLDS_public.JSLDS_code.integrator as integrator
 import JSLDS_public.JSLDS_code.fixed_point_finding as num_fps
 import seaborn as sns
 import matplotlib.gridspec as gridspec
