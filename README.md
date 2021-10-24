@@ -3,7 +3,7 @@
 This repository is the official implementation of Reverse engineering recurrent neural networks with Jacobian switching linear dynamical systems (include link to NEURIPS paper here). 
 
 ## Requirements
-All of the requirements are already installed in the Google Colab environment in the Colab notebooks provided.
+All of the requirements are already installed in the Google Colab environment (https://colab.research.google.com/) in the Colab notebooks provided. This is the recommended environment to use these notebooks.
 
 To run the code on your own machine you will need to install JAX (https://github.com/google/jax#installation).
 
