@@ -1,6 +1,6 @@
 # Reverse engineering recurrent neural networks with Jacobian switching linear dynamical systems
 
-This repository is the official implementation of Reverse engineering recurrent neural networks with Jacobian switching linear dynamical systems (include link to NEURIPS paper here). 
+This repository is the official implementation of Reverse engineering recurrent neural networks with Jacobian switching linear dynamical systems (https://arxiv.org/abs/2111.01256). 
 
 ## Requirements
 All of the requirements are already installed in the Google Colab environment (https://colab.research.google.com/) in the Colab notebooks provided. This is the recommended environment to use these notebooks.
